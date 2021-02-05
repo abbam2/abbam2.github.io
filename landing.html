@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Landing</title>
+<style id="applicationStylesheet" type="text/css">
+	.mediaViewInfo {
+		--web-view-name: Landing;
+		--web-view-id: Landing;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Landing;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Landing {
+		position: absolute;
+		width: 1440px;
+		height: 1620px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Landing;
+		--web-view-id: Landing;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#logo {
+		position: absolute;
+		width: 100px;
+		height: 100px;
+		left: 132px;
+		top: 22px;
+		overflow: visible;
+	}
+	#Composant_4__17 {
+		position: absolute;
+		width: 1440px;
+		height: 47px;
+		left: 0px;
+		top: 1363px;
+		overflow: visible;
+	}
+	#Rectangle_3 {
+		fill: rgba(3,136,165,0.82);
+	}
+	.Rectangle_3 {
+		position: absolute;
+		overflow: visible;
+		width: 1440px;
+		height: 47px;
+		left: 0px;
+		top: 0px;
+	}
+	#Composant_4__18 {
+		position: absolute;
+		width: 1440px;
+		height: 210px;
+		left: 0px;
+		top: 1410px;
+		overflow: visible;
+	}
+	#Rectangle_3_n {
+		fill: rgba(21,137,171,1);
+	}
+	.Rectangle_3_n {
+		position: absolute;
+		overflow: visible;
+		width: 1440px;
+		height: 210px;
+		left: 0px;
+		top: 0px;
+	}
+	#_2021_Kenow_Tous_droits_rservs {
+		left: 263px;
+		top: 1505px;
+		position: absolute;
+		overflow: visible;
+		width: 367px;
+		height: 38px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Image_1 {
+		position: absolute;
+		width: 40px;
+		height: 37.736px;
+		left: 1024.797px;
+		top: 1542px;
+		overflow: visible;
+	}
+	#Capture_decran_2021-01-07_a_12 {
+		position: absolute;
+		width: 40px;
+		height: 40.58px;
+		left: 1070.53px;
+		top: 1539px;
+		overflow: visible;
+	}
+	#Groupe_40 {
+		position: absolute;
+		width: 827px;
+		height: 465px;
+		left: 333px;
+		top: 191px;
+		overflow: visible;
+	}
+	#Etude_de_cas_Kamville {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 342px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#Ce_que_nous_avons_mis_en_place {
+		left: 0px;
+		top: 94px;
+		position: absolute;
+		overflow: visible;
+		width: 473px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#La_tribu_Kenow_a_appliqu_plusi {
+		left: 0px;
+		top: 158px;
+		position: absolute;
+		overflow: visible;
+		width: 828px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#Groupe_43 {
+		position: absolute;
+		width: 834px;
+		height: 687px;
+		left: 326px;
+		top: 521px;
+		overflow: visible;
+	}
+	#Composant_5__86 {
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 330px;
+		height: 70px;
+		left: 229px;
+		top: 617px;
+		overflow: visible;
+	}
+	#btn_y {
+		fill: url(#btn_y);
+	}
+	.btn_y {
+		position: absolute;
+		overflow: visible;
+		width: 330px;
+		height: 70px;
+		left: 0px;
+		top: 0px;
+	}
+	#Obtenir_Plus_De_Clients {
+		left: 22px;
+		top: 23.4px;
+		position: absolute;
+		overflow: visible;
+		width: 283px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.2px;
+	}
+	#Groupe_42 {
+		position: absolute;
+		width: 834px;
+		height: 597px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Groupe_39 {
+		position: absolute;
+		width: 807.5px;
+		height: 145.668px;
+		left: 12px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Capture_decran_2021-01-05_a_15 {
+		position: absolute;
+		width: 222.284px;
+		height: 145.03px;
+		left: 296.114px;
+		top: 0.268px;
+		overflow: visible;
+	}
+	#Capture_decran_2021-01-05_a_15_ {
+		position: absolute;
+		width: 228px;
+		height: 145px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Capture_decran_2021-01-05_a_15_ba {
+		position: absolute;
+		width: 219.381px;
+		height: 145.4px;
+		left: 588.119px;
+		top: 0.268px;
+		overflow: visible;
+	}
+	#Ensuite_nous_avons_ralis_des_v {
+		left: 12px;
+		top: 179px;
+		position: absolute;
+		overflow: visible;
+		width: 759px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#En_lespace_de_3_mois_nous_avon {
+		left: 14px;
+		top: 513px;
+		position: absolute;
+		overflow: visible;
+		width: 821px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#Groupe_41 {
+		position: absolute;
+		width: 529px;
+		height: 191px;
+		left: 0px;
+		top: 260px;
+		overflow: visible;
+	}
+	#image-etude-de-cas-1-ConvertIm {
+		position: absolute;
+		width: 260px;
+		height: 143px;
+		left: 269px;
+		top: 35px;
+		overflow: visible;
+	}
+	#image-etude-de-cas-2-ConvertIm {
+		position: absolute;
+		width: 214px;
+		height: 191px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Appelez-nous_72_04_56_56_ {
+		left: 927px;
+		top: 20px;
+		position: absolute;
+		overflow: visible;
+		width: 226px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+</style>
+</head>
+<body>
+<div id="Landing">
+	<a href="index.html"><img id="logo" src="images/logo.png"></a>
+		
+	<div id="Composant_4__17" class="Composant_4___17">
+		<svg class="Rectangle_3">
+			<rect id="Rectangle_3" rx="0" ry="0" x="0" y="0" width="1440" height="47">
+			</rect>
+		</svg>
+	</div>
+	<div id="Composant_4__18" class="Composant_4___18">
+		<svg class="Rectangle_3_n">
+			<rect id="Rectangle_3_n" rx="0" ry="0" x="0" y="0" width="1440" height="210">
+			</rect>
+		</svg>
+	</div>
+	<div id="_2021_Kenow_Tous_droits_rservs">
+		<span>© 2021, Kenow. Tous droits réservés</span>
+	</div>
+	<a href="http://instagram.com/kenow.ci/" target="_blank"><img id="Image_1" src="images/Image_1.png"></a>
+		
+	<a href="http://linkedin.com/company/kenow-digital/" target="_blank"><img id="Capture_decran_2021-01-07_a_12" src="images/Capture_decran_2021-01-07_a_12.png"></a>
+		
+	<div id="Groupe_40">
+		<div id="Etude_de_cas_Kamville">
+			<span>Etude de cas: Kamville</span>
+		</div>
+		<div id="Ce_que_nous_avons_mis_en_place">
+			<span>Ce que nous avons mis en place (durée 3 mois)</span>
+		</div>
+		<div id="La_tribu_Kenow_a_appliqu_plusi">
+			<span>La tribu Kenow a appliqué plusieurs techniques pour réussir le lancement de Kamville.<br/><br/>Dans un premier temps nous avons collaborer avec plusieurs influenceurs tels que Ange Freddy, Raoul Kevy,<br/>Moses Ahoune et Pantcho.<br/><br/>Ces derniers ont promus le site de petits annonces avec des publications sur leur compte que nous avons alimenté<br/>de notre coté par de la publicité Facebook, Instagram pour toucher encore une plus grande audience et diverse.<br/>Nous avons reciblé tout ceux qui avaient visité le site web pour les inciter a poster des annonces ou faire un achat.</span><br>
+		</div>
+	</div>
+	<div id="Groupe_43">
+		<a href="https://form.typeform.com/to/tftrsTq1?typeform-medium=embed-snippet" style="width: 100%; height: 500px;"><script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script><div id="Composant_5__86" class="Composant_5___86">
+			<svg class="btn_y">
+				<linearGradient id="btn_y" spreadMethod="pad" x1="0.5" x2="0.5" y1="0" y2="1">
+					<stop offset="0" stop-color="#098faa" stop-opacity="1"></stop>
+					<stop offset="1" stop-color="#16bbdb" stop-opacity="1"></stop>
+				</linearGradient>
+				<rect id="btn_y" rx="27" ry="27" x="0" y="0" width="330" height="70">
+				</rect>
+			</svg>
+			<div id="Obtenir_Plus_De_Clients">
+				<span>Obtenir Plus De Clients</span>
+			</div>
+		</div></a>
+		<div id="Groupe_42">
+			<div id="Groupe_39">
+				<img id="Capture_decran_2021-01-05_a_15" src="images/Capture_decran_2021-01-05_a_15.png">
+					
+				<img id="Capture_decran_2021-01-05_a_15_" src="images/Capture_decran_2021-01-05_a_15_.png">
+					
+				<img id="Capture_decran_2021-01-05_a_15_ba" src="images/Capture_decran_2021-01-05_a_15_ba.png">
+					
+			</div>
+			<div id="Ensuite_nous_avons_ralis_des_v">
+				<span>Ensuite nous avons réalisé des visuels pour améliorer le branding de la marque</span><br>
+			</div>
+			<div id="En_lespace_de_3_mois_nous_avon">
+				<span>En l’espace de 3 mois nous avons réussir a totaliser plus d’une centaines d’annonces!!!</span><br>
+			</div>
+			<div id="Groupe_41">
+				<img id="image-etude-de-cas-1-ConvertIm" src="images/image-etude-de-cas-1-ConvertIm.png">
+					
+				<img id="image-etude-de-cas-2-ConvertIm" src="images/image-etude-de-cas-2-ConvertIm.png">
+					
+			</div>
+		</div>
+	</div>
+	<div id="Appelez-nous_72_04_56_56_">
+		<span>Appelez-nous: </span><span style="color:rgba(21,137,171,1);">72 04 56 56</span><br>
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,2094 @@
+.mediaViewInfo {
+		--web-view-name: small – 1;
+		--web-view-id: small__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: small__1;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#small__1 {
+		position: absolute;
+		width: 1280px;
+		height: 5395px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: small – 1;
+		--web-view-id: small__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#Trac_9_j {
+		fill: url(#Trac_9_j);
+	}
+	.Trac_9_j {
+		overflow: visible;
+		position: absolute;
+		width: 746.919px;
+		height: 261.062px;
+		left: 535.081px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Trac_10_l {
+		fill: url(#Trac_10_l);
+	}
+	.Trac_10_l {
+		overflow: visible;
+		position: absolute;
+		width: 739.309px;
+		height: 230.682px;
+		left: 542.691px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#logo {
+		position: absolute;
+		width: 100px;
+		height: 100px;
+		left: 36px;
+		top: 22px;
+		overflow: visible;
+	}
+	#img {
+		position: absolute;
+		width: 565px;
+		height: 309.504px;
+		left: 587px;
+		top: 266px;
+		overflow: visible;
+	}
+	#img_o {
+		position: absolute;
+		width: 510px;
+		height: 286.875px;
+		left: 71px;
+		top: 935.145px;
+		overflow: visible;
+	}
+	#Trac_11 {
+		fill: rgba(2,23,24,1);
+		stroke: rgba(2,23,24,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Trac_11 {
+		overflow: visible;
+		position: absolute;
+		width: 1280px;
+		height: 123.317px;
+		left: 0px;
+		top: 1353.782px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#div_6 {
+		fill: rgba(2,23,24,1);
+		stroke: rgba(2,23,24,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.div_6 {
+		position: absolute;
+		overflow: visible;
+		width: 1280px;
+		height: 591px;
+		left: 0px;
+		top: 1476px;
+	}
+	#Trac_12 {
+		fill: rgba(2,23,24,1);
+		stroke: rgba(2,23,24,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Trac_12 {
+		overflow: visible;
+		position: absolute;
+		width: 1280px;
+		height: 160.02px;
+		left: 0px;
+		top: 2066.097px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Notre_Collaboration_En_4_Etape {
+		left: 120px;
+		top: 2252px;
+		position: absolute;
+		overflow: visible;
+		width: 1040px;
+		height: 146px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#Ligne_1 {
+		fill: transparent;
+		stroke: rgba(21,137,171,1);
+		stroke-width: 14px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ligne_1 {
+		overflow: visible;
+		position: absolute;
+		width: 1240.067px;
+		height: 20px;
+		left: 19.5px;
+		top: 2520.988px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Grille_de_rptition_3 {
+		position: absolute;
+		width: 912.47px;
+		height: 38.604px;
+		left: 193px;
+		top: 2472.875px;
+		overflow: hidden;
+	}
+	#Grille_de_rptition_3_0 {
+		position: absolute;
+		width: 28.47px;
+		height: 20.6px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Trac_1 {
+		fill: rgba(2,23,24,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Trac_1 {
+		overflow: visible;
+		position: absolute;
+		width: 28.47px;
+		height: 20.6px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Grille_de_rptition_3_1 {
+		position: absolute;
+		width: 28.47px;
+		height: 20.6px;
+		left: 284px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Trac_1_y {
+		fill: rgba(2,23,24,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Trac_1_y {
+		overflow: visible;
+		position: absolute;
+		width: 28.47px;
+		height: 20.6px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Grille_de_rptition_3_2 {
+		position: absolute;
+		width: 28.47px;
+		height: 20.6px;
+		left: 568px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Trac_1_ {
+		fill: rgba(2,23,24,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Trac_1_ {
+		overflow: visible;
+		position: absolute;
+		width: 28.47px;
+		height: 20.6px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Grille_de_rptition_3_3 {
+		position: absolute;
+		width: 28.47px;
+		height: 20.6px;
+		left: 852px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Trac_1_ba {
+		fill: rgba(2,23,24,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Trac_1_ba {
+		overflow: visible;
+		position: absolute;
+		width: 28.47px;
+		height: 20.6px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Grille_de_rptition_4 {
+		position: absolute;
+		width: 930px;
+		height: 28px;
+		left: 173px;
+		top: 2438px;
+		overflow: hidden;
+	}
+	#Grille_de_rptition_4_0 {
+		position: absolute;
+		width: 40px;
+		height: 18px;
+		left: 13px;
+		top: 8px;
+		overflow: visible;
+	}
+	#Step_1 {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 41px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#Grille_de_rptition_4_1 {
+		position: absolute;
+		width: 42px;
+		height: 18px;
+		left: 296px;
+		top: 8px;
+		overflow: visible;
+	}
+	#Step_2 {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 43px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#Grille_de_rptition_4_2 {
+		position: absolute;
+		width: 42px;
+		height: 18px;
+		left: 580px;
+		top: 8px;
+		overflow: visible;
+	}
+	#Step_3 {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 43px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#Grille_de_rptition_4_3 {
+		position: absolute;
+		width: 44px;
+		height: 18px;
+		left: 863px;
+		top: 8px;
+		overflow: visible;
+	}
+	#Step_4 {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 45px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#Rectangle_6 {
+		fill: rgba(233,240,240,1);
+		stroke: rgba(233,240,240,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_6 {
+		position: absolute;
+		overflow: visible;
+		width: 1280px;
+		height: 724px;
+		left: 0px;
+		top: 3082px;
+	}
+	#Rectangle_437 {
+		fill: rgba(233,240,240,1);
+	}
+	.Rectangle_437 {
+		position: absolute;
+		overflow: visible;
+		width: 504px;
+		height: 42px;
+		left: 0px;
+		top: 3041px;
+	}
+	#Trac_13 {
+		fill: rgba(233,240,240,1);
+	}
+	.Trac_13 {
+		overflow: visible;
+		position: absolute;
+		width: 427.334px;
+		height: 42.374px;
+		left: 502.667px;
+		top: 3040.306px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Trac_16 {
+		fill: rgba(233,240,240,1);
+	}
+	.Trac_16 {
+		overflow: visible;
+		position: absolute;
+		width: 429.102px;
+		height: 50.574px;
+		left: 850.898px;
+		top: 3033.294px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Groupe_36 {
+		position: absolute;
+		width: 1290.57px;
+		height: 136.406px;
+		left: 0px;
+		top: 2953.032px;
+		overflow: visible;
+	}
+	#Trac_17 {
+		fill: rgba(112,112,112,0.275);
+	}
+	.Trac_17 {
+		overflow: visible;
+		position: absolute;
+		width: 403.104px;
+		height: 87.935px;
+		transform: translate(0px, -2953.032px) matrix(1,0,0,1,883.61,2977.2677) rotate(-7deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_438 {
+		fill: rgba(112,112,112,0.275);
+	}
+	.Rectangle_438 {
+		position: absolute;
+		overflow: visible;
+		width: 504px;
+		height: 37px;
+		left: 0px;
+		top: 51.968px;
+	}
+	#Trac_14 {
+		fill: rgba(112,112,112,0.275);
+	}
+	.Trac_14 {
+		overflow: visible;
+		position: absolute;
+		width: 400.449px;
+		height: 83.212px;
+		transform: translate(0px, -2953.032px) matrix(1,0,0,1,503.9515,3000.0173) rotate(-1deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Ils_Nous_Ont_Fait_Confiance {
+		left: -10px;
+		top: 3146px;
+		position: absolute;
+		overflow: visible;
+		width: 1256px;
+		height: 131px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#Trac_18 {
+		fill: rgba(2,23,24,1);
+	}
+	.Trac_18 {
+		overflow: visible;
+		position: absolute;
+		width: 1280px;
+		height: 112.083px;
+		left: 0px;
+		top: 3668.528px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Rectangle_6_bm {
+		fill: rgba(2,23,24,1);
+	}
+	.Rectangle_6_bm {
+		position: absolute;
+		overflow: visible;
+		width: 1280px;
+		height: 652px;
+		left: 0px;
+		top: 3779px;
+	}
+	#Trac_15 {
+		fill: rgba(2,23,24,1);
+	}
+	.Trac_15 {
+		overflow: visible;
+		position: absolute;
+		width: 1000px;
+		height: 181.714px;
+		transform: matrix(1,0,0,1,0,4429.834) rotate(180deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Avez_Vous_Une_Demande__General {
+		left: 116px;
+		top: 4646px;
+		position: absolute;
+		overflow: visible;
+		width: 1006px;
+		height: 182px;
+		text-align: center;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(21,137,171,1);
+		letter-spacing: -0.2px;
+	}
+	#Si_vous_avez_une_question_dord {
+		left: 303px;
+		top: 4827px;
+		position: absolute;
+		overflow: visible;
+		width: 631px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#Composant_4__7 {
+		position: absolute;
+		width: 1280px;
+		height: 47px;
+		left: 0px;
+		top: 5138px;
+		overflow: visible;
+	}
+	#Rectangle_3 {
+		fill: rgba(3,136,165,0.82);
+	}
+	.Rectangle_3 {
+		position: absolute;
+		overflow: visible;
+		width: 1280px;
+		height: 47px;
+		left: 0px;
+		top: 0px;
+	}
+	#Composant_4__8 {
+		position: absolute;
+		width: 1280px;
+		height: 210px;
+		left: 0px;
+		top: 5185px;
+		overflow: visible;
+	}
+	#Rectangle_3_bt {
+		fill: rgba(21,137,171,1);
+	}
+	.Rectangle_3_bt {
+		position: absolute;
+		overflow: visible;
+		width: 1280px;
+		height: 210px;
+		left: 0px;
+		top: 0px;
+	}
+	#_2021_Kenow_Tous_droits_rservs {
+		left: 39px;
+		top: 5252px;
+		position: absolute;
+		overflow: visible;
+		width: 341px;
+		height: 38px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Image_1 {
+		position: absolute;
+		width: 40px;
+		height: 37.736px;
+		left: 1089px;
+		top: 5290px;
+		overflow: visible;
+	}
+	#Capture_decran_2021-01-07_a_12 {
+		position: absolute;
+		width: 40px;
+		height: 40.58px;
+		left: 1129px;
+		top: 5287px;
+		overflow: visible;
+	}
+	#Groupe_38 {
+		position: absolute;
+		width: 351.759px;
+		height: 60px;
+		left: 737px;
+		top: 4341px;
+		overflow: visible;
+	}
+	#Trac_8 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Trac_8 {
+		overflow: visible;
+		position: absolute;
+		width: 351.759px;
+		height: 1px;
+		left: 0px;
+		top: 56.243px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Contactez_moi_sur_Linkedin {
+		left: 43px;
+		top: 22px;
+		position: absolute;
+		overflow: visible;
+		width: 242px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.2px;
+	}
+	#logo_linkedin_1 {
+		position: absolute;
+		width: 60px;
+		height: 60px;
+		left: 271px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Composant_5__56 {
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 330px;
+		height: 70px;
+		left: 453px;
+		top: 4959px;
+		overflow: visible;
+	}
+	#btn_b {
+		fill: url(#btn_b);
+	}
+	.btn_b {
+		position: absolute;
+		overflow: visible;
+		width: 330px;
+		height: 70px;
+		left: 0px;
+		top: 0px;
+	}
+	#Obtenir_Plus_De_Clients {
+		left: 31px;
+		top: 23.4px;
+		position: absolute;
+		overflow: visible;
+		width: 257px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.2px;
+	}
+	#_Le_Fondateur {
+		left: 352px;
+		top: 3860px;
+		position: absolute;
+		overflow: visible;
+		width: 517px;
+		height: 89px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(21,137,171,1);
+		letter-spacing: -0.2px;
+	}
+	#Groupe_17 {
+		position: absolute;
+		width: 324px;
+		height: 343.563px;
+		left: 202.496px;
+		top: 3979px;
+		overflow: visible;
+	}
+	#le_fondateur_1 {
+		position: absolute;
+		width: 250px;
+		height: 229px;
+		left: 30.504px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Tonfack_Kofack_Fondateur_ {
+		left: 0px;
+		top: 262.563px;
+		position: absolute;
+		overflow: visible;
+		width: 325px;
+		height: 81px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.2px;
+	}
+	#Mon_quipe_et_moi_sommes_ns__lr {
+		left: 611px;
+		top: 4047px;
+		position: absolute;
+		overflow: hidden;
+		width: 440px;
+		height: 152px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Composant_5__66 {
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 330px;
+		height: 70px;
+		left: 653px;
+		top: 4224px;
+		overflow: visible;
+	}
+	#btn_cc {
+		fill: url(#btn_cc);
+	}
+	.btn_cc {
+		position: absolute;
+		overflow: visible;
+		width: 330px;
+		height: 70px;
+		left: 0px;
+		top: 0px;
+	}
+	#Obtenir_Plus_De_Clients_cd {
+		left: 22px;
+		top: 23.4px;
+		position: absolute;
+		overflow: visible;
+		width: 283px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.2px;
+	}
+	#Groupe_35 {
+		position: absolute;
+		width: 1289px;
+		height: 600px;
+		left: -42px;
+		top: 1502px;
+		overflow: visible;
+	}
+	#Composant_5__69 {
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 330px;
+		height: 70px;
+		left: 516px;
+		top: 530px;
+		overflow: visible;
+	}
+	#btn_ch {
+		fill: url(#btn_ch);
+	}
+	.btn_ch {
+		position: absolute;
+		overflow: visible;
+		width: 330px;
+		height: 70px;
+		left: 0px;
+		top: 0px;
+	}
+	#Obtenir_Plus_De_Clients_ci {
+		left: 18px;
+		top: 23.4px;
+		position: absolute;
+		overflow: visible;
+		width: 283px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.2px;
+	}
+	#Ce_Que_Nous_Offrons {
+		left: 431px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 747px;
+		height: 77px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(21,137,171,1);
+		letter-spacing: -0.2px;
+	}
+	#Voici_les_quatres_services_que {
+		left: 222px;
+		top: 78px;
+		position: absolute;
+		overflow: visible;
+		width: 869px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.2px;
+	}
+	#Rectangle_439 {
+		fill: rgba(2,23,24,1);
+		stroke: rgba(23,171,203,0.82);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_439 {
+		position: absolute;
+		overflow: visible;
+		width: 264px;
+		height: 260px;
+		left: 101px;
+		top: 189px;
+	}
+	#Rectangle_439_cm {
+		fill: rgba(2,23,24,1);
+		stroke: rgba(23,171,203,0.82);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_439_cm {
+		position: absolute;
+		overflow: visible;
+		width: 264px;
+		height: 260px;
+		left: 400px;
+		top: 189px;
+	}
+	#Rectangle_439_cn {
+		fill: rgba(2,23,24,1);
+		stroke: rgba(23,171,203,0.82);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_439_cn {
+		position: absolute;
+		overflow: visible;
+		width: 264px;
+		height: 260px;
+		left: 699px;
+		top: 189px;
+	}
+	#Rectangle_439_co {
+		fill: rgba(2,23,24,1);
+		stroke: rgba(23,171,203,0.82);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_439_co {
+		position: absolute;
+		overflow: visible;
+		width: 264px;
+		height: 260px;
+		left: 998px;
+		top: 189px;
+	}
+	#Grille_de_rptition_12 {
+		position: absolute;
+		width: 1210px;
+		height: 53px;
+		left: 79px;
+		top: 206px;
+		overflow: hidden;
+	}
+	#Grille_de_rptition_12_0 {
+		position: absolute;
+		width: 110px;
+		height: 18px;
+		left: 89px;
+		top: 9px;
+		overflow: visible;
+	}
+	#Stratgie_Digitale {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 111px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(21,137,171,1);
+		letter-spacing: -0.81px;
+	}
+	#Grille_de_rptition_12_1 {
+		position: absolute;
+		width: 140px;
+		height: 18px;
+		left: 371px;
+		top: 9px;
+		overflow: visible;
+	}
+	#Marketing_dInfluence {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(21,137,171,1);
+		letter-spacing: -0.81px;
+	}
+	#Grille_de_rptition_12_2 {
+		position: absolute;
+		width: 106px;
+		height: 18px;
+		left: 685px;
+		top: 9px;
+		overflow: visible;
+	}
+	#Social_Media_Ads {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(21,137,171,1);
+		letter-spacing: -0.81px;
+	}
+	#Grille_de_rptition_12_3 {
+		position: absolute;
+		width: 142px;
+		height: 34px;
+		left: 964px;
+		top: 9px;
+		overflow: visible;
+	}
+	#Dveloppement_WEB___Mobile {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 143px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(21,137,171,1);
+		letter-spacing: -0.81px;
+	}
+	#Grille_de_rptition_12_4 {
+		position: absolute;
+		width: 142px;
+		height: 34px;
+		left: 1261px;
+		top: 9px;
+		overflow: visible;
+	}
+	#Dveloppement_WEB___Mobile_cz {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 143px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(21,137,171,1);
+		letter-spacing: -0.81px;
+	}
+	#Grille_de_rptition_12_5 {
+		position: absolute;
+		width: 110px;
+		height: 18px;
+		left: 89px;
+		top: 59px;
+		overflow: visible;
+	}
+	#Stratgie_Digitale_c {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 111px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(21,137,171,1);
+		letter-spacing: -0.81px;
+	}
+	#Grille_de_rptition_12_6 {
+		position: absolute;
+		width: 140px;
+		height: 18px;
+		left: 371px;
+		top: 59px;
+		overflow: visible;
+	}
+	#Marketing_dInfluence_c {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(21,137,171,1);
+		letter-spacing: -0.81px;
+	}
+	#Grille_de_rptition_12_7 {
+		position: absolute;
+		width: 106px;
+		height: 18px;
+		left: 685px;
+		top: 59px;
+		overflow: visible;
+	}
+	#Social_Media_Ads_c {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(21,137,171,1);
+		letter-spacing: -0.81px;
+	}
+	#Grille_de_rptition_12_8 {
+		position: absolute;
+		width: 142px;
+		height: 34px;
+		left: 964px;
+		top: 59px;
+		overflow: visible;
+	}
+	#Dveloppement_WEB___Mobile_c {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 143px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(21,137,171,1);
+		letter-spacing: -0.81px;
+	}
+	#Grille_de_rptition_12_9 {
+		position: absolute;
+		width: 142px;
+		height: 34px;
+		left: 1261px;
+		top: 59px;
+		overflow: visible;
+	}
+	#Dveloppement_WEB___Mobile_da {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 143px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(21,137,171,1);
+		letter-spacing: -0.81px;
+	}
+	#Groupe_27 {
+		position: absolute;
+		width: 1255px;
+		height: 277px;
+		left: 0px;
+		top: 247px;
+		overflow: visible;
+	}
+	#Grille_de_rptition_13 {
+		position: absolute;
+		width: 1255px;
+		height: 277px;
+		left: 0px;
+		top: 0px;
+		overflow: hidden;
+	}
+	#Grille_de_rptition_13_0 {
+		position: absolute;
+		width: 257px;
+		height: 241px;
+		left: 119px;
+		top: 6px;
+		overflow: visible;
+	}
+	#Afin_de_crotre_vos_ventes_il_e {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 258px;
+		height: 241px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.81px;
+	}
+	#Grille_de_rptition_13_1 {
+		position: absolute;
+		width: 257px;
+		height: 241px;
+		left: 416px;
+		top: 6px;
+		overflow: visible;
+	}
+	#_Nous_accompagnons_les_marques {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 258px;
+		height: 241px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.81px;
+	}
+	#Grille_de_rptition_13_2 {
+		position: absolute;
+		width: 257px;
+		height: 241px;
+		left: 713px;
+		top: 6px;
+		overflow: visible;
+	}
+	#En_fonction_des_besoins_de_nos {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 258px;
+		height: 241px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.81px;
+	}
+	#Grille_de_rptition_13_3 {
+		position: absolute;
+		width: 257px;
+		height: 241px;
+		left: 1010px;
+		top: 6px;
+		overflow: visible;
+	}
+	#Grce__nos_connaissances_et____ {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 258px;
+		height: 241px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.81px;
+	}
+	#Grille_de_rptition_13_4 {
+		position: absolute;
+		width: 257px;
+		height: 241px;
+		left: 1307px;
+		top: 6px;
+		overflow: visible;
+	}
+	#Afin_de_crotre_vos_ventes_il_e_dl {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 258px;
+		height: 241px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.81px;
+	}
+	#Groupe_32 {
+		position: absolute;
+		width: 1173.375px;
+		height: 348px;
+		left: 56px;
+		top: 2583px;
+		overflow: visible;
+	}
+	#Groupe_31 {
+		position: absolute;
+		width: 1173.375px;
+		height: 337px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Grille_de_rptition_14 {
+		position: absolute;
+		width: 1146px;
+		height: 337px;
+		left: 0px;
+		top: 0px;
+		overflow: hidden;
+	}
+	#Grille_de_rptition_14_0 {
+		position: absolute;
+		width: 235px;
+		height: 228px;
+		left: 36px;
+		top: 8px;
+		overflow: visible;
+	}
+	#Rectangle_5 {
+		fill: rgba(112,112,112,0.384);
+		stroke: rgba(2,23,24,1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5 {
+		position: absolute;
+		overflow: visible;
+		width: 235px;
+		height: 228px;
+		left: 0px;
+		top: 0px;
+	}
+	#Grille_de_rptition_14_1 {
+		position: absolute;
+		width: 235px;
+		height: 228px;
+		left: 322px;
+		top: 8px;
+		overflow: visible;
+	}
+	#Rectangle_5_ds {
+		fill: rgba(112,112,112,0.384);
+		stroke: rgba(2,23,24,1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5_ds {
+		position: absolute;
+		overflow: visible;
+		width: 235px;
+		height: 228px;
+		left: 0px;
+		top: 0px;
+	}
+	#Grille_de_rptition_14_2 {
+		position: absolute;
+		width: 235px;
+		height: 228px;
+		left: 608px;
+		top: 8px;
+		overflow: visible;
+	}
+	#Rectangle_5_du {
+		fill: rgba(112,112,112,0.384);
+		stroke: rgba(2,23,24,1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5_du {
+		position: absolute;
+		overflow: visible;
+		width: 235px;
+		height: 228px;
+		left: 0px;
+		top: 0px;
+	}
+	#Grille_de_rptition_14_3 {
+		position: absolute;
+		width: 235px;
+		height: 228px;
+		left: 894px;
+		top: 8px;
+		overflow: visible;
+	}
+	#Rectangle_5_dw {
+		fill: rgba(112,112,112,0.384);
+		stroke: rgba(2,23,24,1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5_dw {
+		position: absolute;
+		overflow: visible;
+		width: 235px;
+		height: 228px;
+		left: 0px;
+		top: 0px;
+	}
+	#Grille_de_rptition_14_4 {
+		position: absolute;
+		width: 235px;
+		height: 228px;
+		left: 1180px;
+		top: 8px;
+		overflow: visible;
+	}
+	#Rectangle_5_dy {
+		fill: rgba(112,112,112,0.384);
+		stroke: rgba(2,23,24,1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5_dy {
+		position: absolute;
+		overflow: visible;
+		width: 235px;
+		height: 228px;
+		left: 0px;
+		top: 0px;
+	}
+	#Grille_de_rptition_14_5 {
+		position: absolute;
+		width: 235px;
+		height: 228px;
+		left: 36px;
+		top: 342px;
+		overflow: visible;
+	}
+	#Rectangle_5_d {
+		fill: rgba(112,112,112,0.384);
+		stroke: rgba(2,23,24,1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5_d {
+		position: absolute;
+		overflow: visible;
+		width: 235px;
+		height: 228px;
+		left: 0px;
+		top: 0px;
+	}
+	#Grille_de_rptition_14_6 {
+		position: absolute;
+		width: 235px;
+		height: 228px;
+		left: 322px;
+		top: 342px;
+		overflow: visible;
+	}
+	#Rectangle_5_ea {
+		fill: rgba(112,112,112,0.384);
+		stroke: rgba(2,23,24,1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5_ea {
+		position: absolute;
+		overflow: visible;
+		width: 235px;
+		height: 228px;
+		left: 0px;
+		top: 0px;
+	}
+	#Grille_de_rptition_14_7 {
+		position: absolute;
+		width: 235px;
+		height: 228px;
+		left: 608px;
+		top: 342px;
+		overflow: visible;
+	}
+	#Rectangle_5_eb {
+		fill: rgba(112,112,112,0.384);
+		stroke: rgba(2,23,24,1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5_eb {
+		position: absolute;
+		overflow: visible;
+		width: 235px;
+		height: 228px;
+		left: 0px;
+		top: 0px;
+	}
+	#Grille_de_rptition_14_8 {
+		position: absolute;
+		width: 235px;
+		height: 228px;
+		left: 894px;
+		top: 342px;
+		overflow: visible;
+	}
+	#Rectangle_5_ec {
+		fill: rgba(112,112,112,0.384);
+		stroke: rgba(2,23,24,1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5_ec {
+		position: absolute;
+		overflow: visible;
+		width: 235px;
+		height: 228px;
+		left: 0px;
+		top: 0px;
+	}
+	#Grille_de_rptition_14_9 {
+		position: absolute;
+		width: 235px;
+		height: 228px;
+		left: 1180px;
+		top: 342px;
+		overflow: visible;
+	}
+	#Rectangle_5_ed {
+		fill: rgba(112,112,112,0.384);
+		stroke: rgba(2,23,24,1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5_ed {
+		position: absolute;
+		overflow: visible;
+		width: 235px;
+		height: 228px;
+		left: 0px;
+		top: 0px;
+	}
+	#Nous_concevons_la__meilleure__ {
+		left: 3px;
+		top: 115px;
+		position: absolute;
+		overflow: visible;
+		width: 290px;
+		height: 130px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(2,23,24,1);
+	}
+	#Grille_de_rptition_6 {
+		position: absolute;
+		width: 1164px;
+		height: 62px;
+		left: 9.375px;
+		top: 27.356px;
+		overflow: hidden;
+	}
+	#Grille_de_rptition_6_0 {
+		position: absolute;
+		width: 138px;
+		height: 44px;
+		left: 72px;
+		top: 4px;
+		overflow: visible;
+	}
+	#Elaboration_de__la_Strategie_ {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 139px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#Grille_de_rptition_6_1 {
+		position: absolute;
+		width: 132px;
+		height: 44px;
+		left: 362px;
+		top: 4px;
+		overflow: visible;
+	}
+	#Mise_en_place__De_la_stratgie {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 133px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#Grille_de_rptition_6_2 {
+		position: absolute;
+		width: 168px;
+		height: 44px;
+		left: 631px;
+		top: 4px;
+		overflow: visible;
+	}
+	#Optimisation_Des_performances {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 169px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#Grille_de_rptition_6_3 {
+		position: absolute;
+		width: 168px;
+		height: 44px;
+		left: 918px;
+		top: 4px;
+		overflow: visible;
+	}
+	#Rapport_Des_performances {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 169px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#Grille_de_rptition_6_4 {
+		position: absolute;
+		width: 168px;
+		height: 44px;
+		left: 1205px;
+		top: 4px;
+		overflow: visible;
+	}
+	#Rapport_Des_performances_ek {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 169px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#Nous_configurons_la_stratgie_e {
+		left: 292px;
+		top: 110px;
+		position: absolute;
+		overflow: visible;
+		width: 279px;
+		height: 135px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(2,23,24,1);
+	}
+	#Nous_analysons_les__donnes_afi {
+		left: 585px;
+		top: 110px;
+		position: absolute;
+		overflow: visible;
+		width: 270px;
+		height: 118px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(2,23,24,1);
+	}
+	#Nous_analysons_les__opportunit {
+		left: 872px;
+		top: 106px;
+		position: absolute;
+		overflow: visible;
+		width: 268px;
+		height: 122px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(2,23,24,1);
+	}
+	#Composant_5__70 {
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 330px;
+		height: 70px;
+		left: 398px;
+		top: 278px;
+		overflow: visible;
+	}
+	#btn_eq {
+		fill: url(#btn_eq);
+	}
+	.btn_eq {
+		position: absolute;
+		overflow: visible;
+		width: 330px;
+		height: 70px;
+		left: 0px;
+		top: 0px;
+	}
+	#Obtenir_Plus_De_Clients_er {
+		left: 23px;
+		top: 23.4px;
+		position: absolute;
+		overflow: visible;
+		width: 283px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.2px;
+	}
+	#Groupe_26 {
+		position: absolute;
+		width: 705.109px;
+		height: 344.152px;
+		left: 280.892px;
+		top: 3224.516px;
+		overflow: visible;
+	}
+	#Logo_1 {
+		position: absolute;
+		width: 115px;
+		height: 112.458px;
+		left: 6.655px;
+		top: 133.863px;
+		overflow: visible;
+	}
+	#logo_3 {
+		position: absolute;
+		width: 100px;
+		height: 90.81px;
+		left: 406.109px;
+		top: 15.103px;
+		overflow: visible;
+	}
+	#Logo_2 {
+		position: absolute;
+		width: 96px;
+		height: 94.115px;
+		left: 408.942px;
+		top: 136.341px;
+		overflow: visible;
+	}
+	#logo_4-removebg-preview {
+		position: absolute;
+		width: 115px;
+		height: 119.792px;
+		left: 8.134px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Wiassur_Compagnie_dAssurance {
+		left: 115.108px;
+		top: 32.484px;
+		position: absolute;
+		overflow: visible;
+		width: 166px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(112,112,112,1);
+		letter-spacing: -0.2px;
+	}
+	#Prunus_Group_Entreprise_d_Inte {
+		left: 113.108px;
+		top: 157.484px;
+		position: absolute;
+		overflow: visible;
+		width: 179px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(112,112,112,1);
+		letter-spacing: -0.2px;
+	}
+	#Shapp_Application_dEducation {
+		left: 508.108px;
+		top: 37.484px;
+		position: absolute;
+		overflow: visible;
+		width: 163px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(112,112,112,1);
+		letter-spacing: -0.2px;
+	}
+	#Kamville_Site_web_de_petites_a {
+		left: 507.108px;
+		top: 151.484px;
+		position: absolute;
+		overflow: visible;
+		width: 199px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(112,112,112,1);
+		letter-spacing: -0.2px;
+	}
+	#Mekuko-03_1 {
+		position: absolute;
+		width: 115px;
+		height: 64.705px;
+		left: 0px;
+		top: 257.694px;
+		overflow: visible;
+	}
+	#logo_infinix_1 {
+		position: absolute;
+		width: 115px;
+		height: 92.094px;
+		left: 400.953px;
+		top: 252.059px;
+		overflow: visible;
+	}
+	#Mekuko_Entreprise_de_commerce_ {
+		left: 122.108px;
+		top: 268.484px;
+		position: absolute;
+		overflow: visible;
+		width: 230px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(112,112,112,1);
+		letter-spacing: -0.2px;
+	}
+	#Infinix_Mobile_Smartphone_ {
+		left: 510.108px;
+		top: 272.484px;
+		position: absolute;
+		overflow: visible;
+		width: 93px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(112,112,112,1);
+		letter-spacing: -0.2px;
+	}
+	#Groupe_30 {
+		position: absolute;
+		width: 495px;
+		height: 481px;
+		left: 652px;
+		top: 832px;
+		overflow: visible;
+	}
+	#Composant_6__10 {
+		position: absolute;
+		width: 318px;
+		height: 99px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Notre_Philosophie_ {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 319px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(21,137,171,1);
+		letter-spacing: -0.2px;
+	}
+	#Chez_Kenow_nous_croyons_que_le {
+		left: 1px;
+		top: 68px;
+		position: absolute;
+		overflow: visible;
+		width: 495px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
+	#Composant_5__82 {
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 330px;
+		height: 70px;
+		left: 12px;
+		top: 411px;
+		overflow: visible;
+	}
+	#btn_fb {
+		fill: url(#btn_fb);
+	}
+	.btn_fb {
+		position: absolute;
+		overflow: visible;
+		width: 330px;
+		height: 70px;
+		left: 0px;
+		top: 0px;
+	}
+	#Obtenir_Plus_De_Clients_fc {
+		left: 21px;
+		top: 23.4px;
+		position: absolute;
+		overflow: visible;
+		width: 283px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.2px;
+	}
+	#Groupe_29 {
+		position: absolute;
+		width: 361px;
+		height: 423px;
+		left: 173px;
+		top: 166px;
+		overflow: visible;
+	}
+	#Faites_Passer_Votre_Business_A {
+		left: 2px;
+		top: 0px;
+		position: absolute;
+		overflow: hidden;
+		width: 360px;
+		height: 267px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 38px;
+		color: rgba(43,149,194,1);
+	}
+	#Composant_5__83 {
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 330px;
+		height: 70px;
+		left: 4px;
+		top: 353px;
+		overflow: visible;
+	}
+	#btn_fh {
+		fill: url(#btn_fh);
+	}
+	.btn_fh {
+		position: absolute;
+		overflow: visible;
+		width: 330px;
+		height: 70px;
+		left: 0px;
+		top: 0px;
+	}
+	#Obtenir_Plus_De_Clients_fi {
+		left: 20px;
+		top: 23.4px;
+		position: absolute;
+		overflow: visible;
+		width: 283px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.2px;
+	}
+	#Arretez_de_perdre_du_temps_et_ {
+		left: 0px;
+		top: 247px;
+		position: absolute;
+		overflow: visible;
+		width: 357px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(2,23,24,1);
+		letter-spacing: -0.2px;
+	}
